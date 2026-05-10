@@ -1,0 +1,6 @@
+{
+  "name": "الآلة الحاسبة الأنيقة",
+  "description": "واجهة آلة حاسبة مصممة بأسلوب عصري وأنيق مع تفاعلات بصرية متميزة.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
